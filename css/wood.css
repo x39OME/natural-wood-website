@@ -131,7 +131,6 @@ ul {
   align-items: center;
   transition: var(--main-transition);
 }
-.header .logo::before
 .header .logo:hover{
   background: var(--main-color);
   color: var(--colorText);
