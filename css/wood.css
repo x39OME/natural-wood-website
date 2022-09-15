@@ -341,7 +341,7 @@ ul {
   }
 }
 .landing .go-down {
-  color: var(--main-color);
+  color:var(--colorText);
   position: absolute;
   bottom: 15px;
   left: 50%;
