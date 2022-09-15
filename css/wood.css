@@ -83,7 +83,7 @@ ul {
   left: -30px;
 }
 .main-title::after {
-  right: -30px;
+  right: -17px;
 }
 .main-title:hover::before {
   z-index: -1;
