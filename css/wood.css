@@ -132,8 +132,7 @@ ul {
   transition: var(--main-transition);
 }
 .header .logo:hover{
-  background: var(--main-color);
-  color: var(--colorText);
+  color:var(--text-color)
 }
 .header .logo i {
   margin-right: 15px;
