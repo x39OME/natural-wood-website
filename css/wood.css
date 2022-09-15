@@ -113,7 +113,6 @@ ul {
 .header {
   background:var(--colorText);
   position: relative;
-  box-shadow: 0 0 10px #d9ad26;
 }
 .header .container {
   display: flex;
