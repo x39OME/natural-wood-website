@@ -1,2 +1,2 @@
-# responsive_website_wood
+# Wood Template Website
 Using Html\Css &amp; Javascript
