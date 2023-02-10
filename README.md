@@ -1,2 +1,2 @@
 # Wood Template Website
-Using Html\Css &amp; Javascript
+Uesing Html\Css &amp; Javascript
