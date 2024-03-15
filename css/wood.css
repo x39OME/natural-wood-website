@@ -111,7 +111,12 @@ ul {
 /* End Global Rules */
 /* Start Header */
 .header {
-  background:var(--main-color);
+  background: var(--main-color);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
 }
 .header .container {
   display: flex;
