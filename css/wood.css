@@ -343,8 +343,6 @@ ul {
   width: 350px;
   animation: up-and-down 5s linear infinite;
   height: 300px;
-  border-top-left-radius: 50%;
-  border-bottom-right-radius: 50%;
 }
 @media (max-width: 991px) {
   .landing .image img{
